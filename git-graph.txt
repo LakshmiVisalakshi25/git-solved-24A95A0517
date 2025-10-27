@@ -1,0 +1,26 @@
+* e342189 (HEAD -> main, origin/main) docs: Add changelog
+* 6952b79 GIT_JOURNEY was added
+*   7f477b9 Merge pull request #2 from LakshmiVisalakshi25/feature/another-feature
+|\  
+| * 00600c5 (origin/feature/another-feature) feat: Add test feature
+| * dc49e4b (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: Update README
+* |   344ccb1 Merge pull request #1 from LakshmiVisalakshi25/feature/new-feature
+|\ \  
+| |/  
+|/|   
+| * 842e5b1 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+* | 0f117f3 feat: Add new feature
+* | 2b67f9a docs: Add FAQ section
+|/  
+*   387f592 merge: Resolve all conflicts between main and dev branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 02b4e34 merge: Resolve all conflicts between main and dev branches
+* |   4f2f4ae merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
